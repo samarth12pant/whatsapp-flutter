@@ -1,6 +1,6 @@
 # whatsapp_hs
 
-A new Flutter project.
+A new Flutter project that is a clone of the popular instant messaging application WhatsApp by Facebook. 
 
 ## Getting Started
 
